@@ -68,14 +68,6 @@ body{
     background-color: black;
     color: aqua;
 }
-/*carrinho*/
-    @keyframes carro{
-        0%{margin-left: 845px;}
-        25%{margin-left: 310px;}
-        50%{margin-left: 1000px;}
-        75%{margin-left: 845px;}
-        100%{margin:  auto;}
-    }
 .item2{
 
     max-width: 200px;
@@ -85,8 +77,6 @@ body{
     margin: 0 auto;
 
     opacity: 0.5;
-
-    animation: carro 18s infinite;
 
     grid-area: "item";
 
