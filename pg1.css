@@ -158,10 +158,10 @@ img{
 .item:hover{
     background-color: aqua;
 }
-#bt1{
+/*#bt1{
      width:250px;
     height:250px:
-}
+}*/
 /*Estilizando o footer*/
 .footer{
     margin-top: 370PX;
@@ -230,6 +230,12 @@ img{
     border: solid 1px;
     border-radius: 50px;
     box-shadow: 2px 5px 8px;
+}
+#bt1{
+    background-color: rgba(90, 75, 177, 0.144);
+    border-radius: 22px;
+    box-shadow: 2px 3px 15px rgba(54, 51, 51, 0.822);
+
 }
 #bt2{
     background-color: rgba(90, 75, 177, 0.144);
