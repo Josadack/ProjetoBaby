@@ -15,8 +15,8 @@
     .footer{
         grid-row: footer;
     }
-    .sidenav{
-        grid-column: sidenav;
+    .container{
+        grid-column: container;
         margin-top:100px;
     }
     .regra{
