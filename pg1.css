@@ -231,6 +231,12 @@ img{
     border-radius: 50px;
     box-shadow: 2px 5px 8px;
 }
+#bt2{
+    background-color: rgba(90, 75, 177, 0.144);
+    border-radius: 22px;
+    box-shadow: 2px 3px 15px rgba(54, 51, 51, 0.822);
+
+}
 
 #bt3{
     background-color: rgba(90, 75, 177, 0.144);
