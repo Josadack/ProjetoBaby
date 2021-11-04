@@ -290,6 +290,24 @@ img{
 #bt3:hover{
     background-color: aqua;
 }
+#scip01{
+    margin-top: -39px;
+    text-align: center;
+    font-family: 'sofia';
+    font-size: 25px;
+    font-style: oblique;
+    color: rgba(0, 0, 0, 0.815);
+    text-shadow: 2px 3px 5px rgba(4, 89, 104, 0.911);
+}
+#scip02{
+    margin-top: -39px;
+    text-align: center;
+    font-family: 'sofia';
+    font-size: 25px;
+    font-style: oblique;
+    color: rgba(0, 0, 0, 0.815);
+    text-shadow: 2px 3px 5px rgba(4, 89, 104, 0.911);
+}
 #scip03{
     margin-top: -39px;
     text-align: center;
