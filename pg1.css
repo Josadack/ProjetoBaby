@@ -72,6 +72,9 @@
         grid-column: sidenav;
         margin-top:100px;
     }
+    .item{ 
+        margin:135;
+    }
 }
 
 body{
