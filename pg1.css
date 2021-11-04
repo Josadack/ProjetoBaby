@@ -4,7 +4,7 @@
     .container{
         grid-template-areas: 
         "item2 item2""
-        "sidenav"
+        "sidenav sidenav" 
         "regra regra"
         " item  item item "
         "footer footer footer";
@@ -29,7 +29,7 @@
 @media(max-width: 420px){
     .container{
         grid-template-areas: 
-        
+        "sidenav"
         "item "
         "item2"
         
