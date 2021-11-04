@@ -17,6 +17,7 @@
     }
     .sidenav{
         grid-column: sidenav;
+        margin-top:100px;
     }
     .regra{
         grid-row: regra;
@@ -39,6 +40,10 @@
       }
       .item2{
         grid-column: item2;
+    }
+     .sidenav{
+        grid-column: sidenav;
+        margin-top:100px;
     }
 }
 
