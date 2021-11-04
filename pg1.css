@@ -130,8 +130,8 @@ body{
     "footer footer footer footer";
 }
 img{
-    width: 500px;
-    height:500px;
+    width: 100%;
+    
 
     border-radius: 35px;
 }
@@ -158,7 +158,10 @@ img{
 .item:hover{
     background-color: aqua;
 }
-
+#bt1{
+     width:250px;
+    height:250px:
+}
 /*Estilizando o footer*/
 .footer{
     margin-top: 370PX;
