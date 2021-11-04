@@ -112,6 +112,7 @@ body{
     text-shadow: 5px 5px 20px rgba(8, 55, 99, 0.63);
 }
 .container{
+    margin-top:50px;
     max-width: 1200px;
 
     margin: 0 auto;
