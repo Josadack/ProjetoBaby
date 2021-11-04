@@ -121,7 +121,7 @@ body{
 
     display:grid;
 
-    grid-gap: 2px; /*para esparsar os elementos*/
+    grid-gap: 0px; /*para esparsar os elementos*/
 
     justify-content: center;
 
@@ -150,7 +150,7 @@ img{
 
     grid-area: "item";
 
-    margin: 225px;
+    margin: 235px;
 
     box-shadow: 2px 3px 15px rgb(129, 124, 124);
 }
