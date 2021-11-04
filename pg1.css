@@ -1,9 +1,36 @@
 
 /*Para deixar responsivo*/
+@media(max-width: 1688px){
+    .container{
+        grid-template-areas: 
+        "item2 item2"
+        "sidenav sidenav" 
+        "regra regra"
+        " item  item item "
+        "footer footer footer";
+    }
+    .item{
+      grid-column: item;  
+    }
+    .footer{
+        grid-row: footer;
+    }
+    .sidenav{
+        grid-column: sidenav;
+        margin-top:100px;
+    }
+    .regra{
+        grid-row: regra;
+    }
+    .item2{
+        grid-column: item2;
+    }
+}
+
 @media(max-width: 820px){
     .container{
         grid-template-areas: 
-        "item2 item2""
+        "item2"
         "sidenav sidenav" 
         "regra regra"
         " item  item item "
