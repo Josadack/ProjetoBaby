@@ -121,7 +121,7 @@ body{
 
     display:grid;
 
-    grid-gap: 30px; /*para esparsar os elementos*/
+    grid-gap: 20px; /*para esparsar os elementos*/
 
     justify-content: center;
 
@@ -149,7 +149,7 @@ img{
 
     grid-area: "item";
 
-    margin: 180px;
+    margin: 110px;
 
     box-shadow: 2px 3px 15px rgb(129, 124, 124);
 }
@@ -198,8 +198,6 @@ img{
     color: blue;
 
     font-family: 'sofia';
-
-
 
     font-size: 25px;
 }
