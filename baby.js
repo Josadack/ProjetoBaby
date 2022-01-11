@@ -30,7 +30,7 @@ function site03(){
 
     av.innerHTML = '<img id="conta"src="CONTACAIXA.png" width="350px">'
     texto2.innerHTML = '<p id="pix03">Número para PIX 11-9.9904-3535</p>'
-    acima.innerHTML = '<p> Escolha uma das opções: TRANSFERÊNCIA ou PIX </p>'
+    acima.innerHTML = '<p> Escolha uma das opções: DEPÓSITO - TRANSFERÊNCIA - PIX </p>'
     
 }
     
