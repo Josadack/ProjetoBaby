@@ -28,7 +28,7 @@ function site03(){
     var acima = document.getElementById('scip03')
     var av = document.getElementById('av')
 
-    av.innerHTML = '<img id="conta"src="CONTACAIXA.png" width="350px">'
+    av.innerHTML = '<img id="conta"src="CONTACAIXA.png" width="370px">'
     texto2.innerHTML = '<p id="pix03">Número para PIX 11-9.9904-3535</p>'
     acima.innerHTML = '<p> Escolha uma das opções: <strong><br>DEPÓSITO  <b>TRANSFERÊNCIA  PIX</strong> </p>'
     
