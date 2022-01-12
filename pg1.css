@@ -250,22 +250,22 @@ img{
 #pix03{
     background-color: rgba(114, 76, 150, 0.651);
     text-align: center;
-    margin-top: 5px;
+    margin-top: 3px;
     margin-left: -75px;
     font-size: 55px;
     color: rgb(0, 0, 0);
     border: solid 1px;
-    width: 400px;
-    padding: 8px;
+    width: 390px;
+    padding: 7px;
     border-radius: 30px;
     box-shadow: 2px 3px 8px;
 }
 
 #conta{
     margin-left: -0px;
-    margin-top: 0px;
+    margin-top: -40px;
     border: solid 1px;
-    border-radius: 50px;
+    border-radius: 30px;
     box-shadow: 2px 5px 8px;
 }
 #bt1{
